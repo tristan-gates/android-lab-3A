@@ -53,12 +53,10 @@
         android:id="@+id/btn7"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="77dp"
-        android:layout_marginTop="212dp"
         android:text="7"
         android:textSize="30sp"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        tools:layout_editor_absoluteX="77dp"
+        tools:layout_editor_absoluteY="212dp" />
 
     <Button
         android:id="@+id/btn3"
